@@ -1,9 +1,9 @@
 # FetchRewards
 
-**First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model**
+**First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model: **
 The ER Diagram is attached.
 
-**Second: Write a query that directly answers a predetermined question from a business stakeholder**
+**Second: Write a query that directly answers a predetermined question from a business stakeholder: **
 One particular business question was solved using Postgresql query
 
 
