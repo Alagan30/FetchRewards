@@ -4,7 +4,7 @@
   
   The ER Diagram is attached.
 
-**Second: Write a query that directly answers a predetermined question from a business stakeholder **
+**Second: Write a query that directly answers a predetermined question from a business stakeholder**
   
   One particular business question was solved using Postgresql query
 
